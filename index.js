@@ -19,6 +19,7 @@ passport.deserializeUser(function(obj, done) {
   done(null, obj);
 });
 
+//Hola, Mister Hola!
 
 // Use the LinkedinStrategy within Passport.
 
